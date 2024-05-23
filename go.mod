@@ -10,5 +10,5 @@ require (
 	github.com/showwin/speedtest-go v1.1.1
 	github.com/wcharczuk/go-chart v2.0.1+incompatible
 	github.com/wcharczuk/go-chart/v2 v2.1.0
-	golang.org/x/image v0.5.0 // indirect
+	golang.org/x/image v0.10.0 // indirect
 )
