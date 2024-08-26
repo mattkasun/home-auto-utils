@@ -9,5 +9,5 @@ require (
 	github.com/go-redis/redis/v8 v8.11.5
 	github.com/showwin/speedtest-go v1.7.8
 	github.com/wcharczuk/go-chart v2.0.1+incompatible
-	github.com/wcharczuk/go-chart/v2 v2.1.1
+	github.com/wcharczuk/go-chart/v2 v2.1.2
 )
